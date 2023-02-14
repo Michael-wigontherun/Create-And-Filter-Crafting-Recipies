@@ -8,6 +8,7 @@ The Book you will need to get using something like AddItemMenu or find it using 
 It is a console application that needs you to input, as command line arguments, the absolute path to the plugin and the output folder path.
 
 A base bat file to run it will be uploaded.
+
 Example:
 CreateAndFilterCraftingRecipies.exe "E:\SkyrimMods\MO2\mods\xEdit Cache\test.esp" "E:\SkyrimMods\MO2\mods\xEdit Cache"
 
