@@ -1,0 +1,294 @@
+﻿{
+  "06BBD4:Skyrim.esm": {
+    "IngotTypesString": [
+      "05AD9D:Skyrim.esm",
+      "03AD5B:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      3,
+      1
+    ]
+  },
+  "06BBD5:Skyrim.esm": {
+    "IngotTypesString": [
+      "03ADA4:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBD6:Skyrim.esm": {
+    "IngotTypesString": [
+      "03ADA3:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBD7:Skyrim.esm": {
+    "IngotTypesString": [
+      "0DB8A2:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBD8:Skyrim.esm": {
+    "IngotTypesString": [
+      "05AD9D:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBD9:Skyrim.esm": {
+    "IngotTypesString": [
+      "05AD9F:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBDA:Skyrim.esm": {
+    "IngotTypesString": [
+      "05AD9F:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBDC:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ADA1:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBDD:Skyrim.esm": {
+    "IngotTypesString": [
+      "0DB5D2:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      2
+    ]
+  },
+  "06BBE2:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE5:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      3
+    ]
+  },
+  "06BBE0:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE5:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBE1:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE5:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      2
+    ]
+  },
+  "06BBE3:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE4:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBE4:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE4:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      2
+    ]
+  },
+  "06BBDB:Skyrim.esm": {
+    "IngotTypesString": [
+      "0DB5D2:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBE5:Skyrim.esm": {
+    "IngotTypesString": [
+      "05AD99:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "06BBDE:Skyrim.esm": {
+    "IngotTypesString": [
+      "0DB5D2:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      3
+    ]
+  },
+  "06BBE6:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE5:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      2
+    ]
+  },
+  "06BBE7:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE5:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      5
+    ]
+  },
+  "0AC13A:Skyrim.esm": {
+    "IngotTypesString": [
+      "0DB5D2:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      2
+    ]
+  },
+  "06BBDF:Skyrim.esm": {
+    "IngotTypesString": [
+      "0DB5D2:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      5
+    ]
+  },
+  "01E71F:Skyrim.esm": {
+    "IngotTypesString": [
+      "05AD9D:Skyrim.esm",
+      "03AD5B:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1,
+      1
+    ]
+  },
+  "0C5C01:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE5:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      2
+    ]
+  },
+  "0C5C02:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE5:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      3
+    ]
+  },
+  "01E71A:Skyrim.esm": {
+    "IngotTypesString": [
+      "0DB8A2:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "01E71E:Skyrim.esm": {
+    "IngotTypesString": [
+      "05AD9D:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "01E71B:Skyrim.esm": {
+    "IngotTypesString": [
+      "05AD9F:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "0C5C03:Skyrim.esm": {
+    "IngotTypesString": [
+      "03AD57:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "0C5C04:Skyrim.esm": {
+    "IngotTypesString": [
+      "03AD57:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      2
+    ]
+  },
+  "01E71D:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ADA1:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "0C5C00:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE5:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "01E718:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE4:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "01E71C:Skyrim.esm": {
+    "IngotTypesString": [
+      "05AD99:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "10AA1A:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE3:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "01E719:Skyrim.esm": {
+    "IngotTypesString": [
+      "05ACE5:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  },
+  "01E717:Skyrim.esm": {
+    "IngotTypesString": [
+      "06F993:Skyrim.esm"
+    ],
+    "IngotBaseAmounts": [
+      1
+    ]
+  }
+}

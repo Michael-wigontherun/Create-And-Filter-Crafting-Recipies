@@ -1,0 +1,26 @@
+﻿{
+  "Body": {
+    "leather": 3,
+    "leatherStrips": 2,
+    "linen": 4,
+    "armorMaterial": 3
+  },
+  "Hands": {
+    "leather": 0,
+    "leatherStrips": 1,
+    "linen": 1,
+    "armorMaterial": 1
+  },
+  "Head": {
+    "leather": 1,
+    "leatherStrips": 2,
+    "linen": 1,
+    "armorMaterial": 1
+  },
+  "Feet": {
+    "leather": 2,
+    "leatherStrips": 2,
+    "linen": 2,
+    "armorMaterial": 2
+  }
+}
