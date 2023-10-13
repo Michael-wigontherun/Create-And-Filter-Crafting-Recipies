@@ -71,7 +71,17 @@ namespace CreateAndFilterCraftingRecipies
             KeyHandler.ModKey = newMod.ModKey;
 
             Book craftingBook = new Book(KeyHandler.GetNewFormKey(), SkyrimRelease.SkyrimSE);
-            craftingBook.Name = Path.GetFileNameWithoutExtension(mod.ModKey.FileName) + " Crafting Book";
+            craftingBook.EditorID = "[" + Path.GetFileNameWithoutExtension(mod.ModKey.FileName) + "] Crafting Book";
+            craftingBook.Name = "[" + Path.GetFileNameWithoutExtension(mod.ModKey.FileName) + "] Crafting Book";
+            craftingBook.Model = new();
+            craftingBook.Model.File.RawPath = "Clutter\\Books\\Book02LowPoly.nif";
+            craftingBook.BookText.String = "[pagebreak] <p align=\"left\">[" + Path.GetFileNameWithoutExtension(mod.ModKey.FileName) + "] Crafting Book</p>";
+            craftingBook.Keywords = new();
+            craftingBook.Keywords.Add(FormKey.Factory("0937A2:Skyrim.esm"));
+            craftingBook.Type = Book.BookType.BookOrTome;
+            craftingBook.InventoryArt.FormKey = FormKey.Factory("08ADAF:Skyrim.esm");
+
+
             newMod.Books.Add(craftingBook);
             BuildBookCondition(craftingBook);
 
