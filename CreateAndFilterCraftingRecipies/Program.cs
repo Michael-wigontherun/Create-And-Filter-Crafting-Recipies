@@ -75,7 +75,7 @@ namespace CreateAndFilterCraftingRecipies
             craftingBook.Name = "[" + Path.GetFileNameWithoutExtension(mod.ModKey.FileName) + "] Crafting Book";
             craftingBook.Model = new();
             craftingBook.Model.File.RawPath = "Clutter\\Books\\Book02LowPoly.nif";
-            craftingBook.BookText.String = "[pagebreak] <p align=\"left\">[" + Path.GetFileNameWithoutExtension(mod.ModKey.FileName) + "] Crafting Book</p>";
+            craftingBook.BookText.String = "<p align=\"left\">[" + Path.GetFileNameWithoutExtension(mod.ModKey.FileName) + "] Crafting Book</p>";
             craftingBook.Keywords = new();
             craftingBook.Keywords.Add(FormKey.Factory("0937A2:Skyrim.esm"));
             craftingBook.Type = Book.BookType.BookOrTome;
